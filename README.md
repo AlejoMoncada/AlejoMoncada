@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlejoMoncada
-- 👀 I’m interested in SQL, data analytics, GIS system.
-- 🌱 I’m currently learning Python, T-SQL
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in SQL, data analytics, GIS system, Power BI reports, Pandas
+- 🌱 I’m currently learning Pandas 
+- 💞️ I’m looking to collaborate on Business Intelligence and Analitycs
 - 📫 How to reach me alejomoncadac@gmail.com 
 
 <!---
