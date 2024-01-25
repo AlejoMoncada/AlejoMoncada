@@ -17,15 +17,17 @@ I'm a Business Operations Specialist and Data Analyst with experience in creatin
 
 ## Technologies I Handle 🛠️
 
-!Python
-!SQL Server
-!Azure
-!Power BI
-!Looker
-!DataStudio
-!MongoDB
-!ArcGIS
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-333333?style=flat&logo=microsoft-sql-server)
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
+![Power BI](https://img.shields.io/badge/-Power_BI-333333?style=flat&logo=power-bi)
+![Looker](https://img.shields.io/badge/-Looker-333333?style=flat&logo=looker)
+![DataStudio](https://img.shields.io/badge/-DataStudio-333333?style=flat&logo=google-data-studio)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![ArcGIS](https://img.shields.io/badge/-ArcGIS-333333?style=flat&logo=arcgis)
 
 ## Contact Me 📫
 
 You can find me on LinkedIn [Linkedin Alejandro Moncada]((https://www.linkedin.com/in/alejandro-moncada-cifuentes/)https://www.linkedin.com/in/alejandro-moncada-cifuentes/).
+
+
