@@ -1,6 +1,3 @@
-¡Claro! Aquí tienes una plantilla de README para tu perfil de GitHub. Puedes personalizarla según tus necesidades:
-
-```markdown
 # ¡Hola, bienvenido a mi perfil de GitHub! 👋
 
 ## Acerca de mí 🚀
@@ -31,8 +28,4 @@ Soy un especialista en operaciones de negocios y analista de datos con experienc
 
 ## Contáctame 📫
 
-Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/tu-nombre/)
-
-```
-
-Por favor, reemplaza los enlaces de los logos de las tecnologías que manejas con los enlaces correctos. También, asegúrate de reemplazar el enlace de LinkedIn con tu enlace personal. ¡Espero que esto te ayude!
+Puedes encontrarme en [LinkedIn]([https://www.linkedin.com/in/tu-nombre](https://www.linkedin.com/in/alejandro-moncada-cifuentes/)https://www.linkedin.com/in/alejandro-moncada-cifuentes/)
